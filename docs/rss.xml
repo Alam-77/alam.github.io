@@ -1,9 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Alam-77</title><link>https://Alam-77.github.io/alam.github.io</link><description>小白Blog</description><copyright>Alam-77</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Alam-77.github.io/alam.github.io</link></image><lastBuildDate>Sat, 06 Dec 2025 10:46:58 +0000</lastBuildDate><managingEditor>Alam-77</managingEditor><ttl>60</ttl><webMaster>Alam-77</webMaster><item><title>九九乘法表</title><link>https://Alam-77.github.io/alam.github.io/post/jiu-jiu-cheng-fa-biao.html</link><description>i = 1
-while i &lt;= 9:
-    j = 1
-    while j &lt;= i:
-        print(j,'*',i,'=',j * i, end=' ')
-        j += 1
-    print()
-    i +=1。</description><guid isPermaLink="true">https://Alam-77.github.io/alam.github.io/post/jiu-jiu-cheng-fa-biao.html</guid><pubDate>Sat, 06 Dec 2025 10:14:55 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Alam-77</title><link>https://Alam-77.github.io/alam.github.io</link><description>小白Blog</description><copyright>Alam-77</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Alam-77.github.io/alam.github.io</link></image><lastBuildDate>Sat, 06 Dec 2025 11:09:10 +0000</lastBuildDate><managingEditor>Alam-77</managingEditor><ttl>60</ttl><webMaster>Alam-77</webMaster><item><title>Python图书馆管理系统</title><link>https://Alam-77.github.io/alam.github.io/post/Python-tu-shu-guan-guan-li-xi-tong.html</link><description># Python图书馆管理系统
+## 一、实验目的
+1．掌握 Tkinter 库核心控件（Label、Entry、Button）的创建与属性设置；
+2．理解 SQLite 数据库连接原理，掌握 book 表与 user 表的创建 SQL 语句；
+3．明确图书管理系统登录模块的界面结构与数据流向；
+4．了解实验报告 “概述”“需求分析” 的撰写框架。</description><guid isPermaLink="true">https://Alam-77.github.io/alam.github.io/post/Python-tu-shu-guan-guan-li-xi-tong.html</guid><pubDate>Sat, 06 Dec 2025 10:14:55 +0000</pubDate></item></channel></rss>
